@@ -23,4 +23,4 @@ print("------------------------------")
 print(type(myName))
 print(type(myGrade))
 print(type(myAge))
-print(type(usCitizen))
+print(type(usCitizen))#
