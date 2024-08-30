@@ -49,3 +49,35 @@ print(m>=n)
 
 # Less than or equal to
 print(m<=n)
+
+# logical operator -----> 'and', 'or', 'not
+
+# Built-in math func.
+# max() finds the highest value
+print(max(577867, 283646, 427493, 584835, 683938))
+
+# min() finds the lowest value
+print(min(577867, 283646, 427493, 584835, 683938))
+
+# the abs() function brings the absolute positive value of an integer
+print(abs(-34.6788765))
+      
+
+# the pow(x,y) function returns the value of x to the value of y (xy)
+print(a**b)
+print(pow, 2,3)
+
+print(round(3.2))
+print(round(3.4))
+print(round(3.8))
+
+# We are importing math library by below line
+import math
+
+# The math sqrt() method returns the square root of the value
+print(math.sqrt(64))
+
+# Rounds a square root number dowards to the nearest integer
+print(math.isqrt(37))
+
+
