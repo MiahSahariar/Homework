@@ -80,4 +80,19 @@ print(math.sqrt(64))
 # Rounds a square root number dowards to the nearest integer
 print(math.isqrt(37))
 
+# Rounds a number down to the nearest integer
+print(math.floor(3.7))
 
+# Rounds a number up to the nearest integer
+print(math.ceil(3.1))
+
+print(math.factorial(5))
+
+# below one gave us remainder and modulus
+print(x%y)
+
+# method returns the remainder of x with respect to y
+print(math.remainder(9,2))
+
+import datetime
+print(datetime.now())

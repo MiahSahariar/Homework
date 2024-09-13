@@ -1,4 +1,4 @@
-temp = input(todaysTemperature)
+temp = input()
 
 if temp < 32:
     print("Freezing")
