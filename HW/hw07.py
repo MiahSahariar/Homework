@@ -1,4 +1,5 @@
 def diabeticCondition(hbA1c):
+    input(int(hbA1c))
     if hbA1c > 6.4:
         print("I am a diabetic patient")
     elif hbA1c <= 6.4:
